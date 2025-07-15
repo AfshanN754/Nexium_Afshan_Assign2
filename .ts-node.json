@@ -1,0 +1,9 @@
+{
+  "transpileOnly": true,
+  "esm": true,
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}
